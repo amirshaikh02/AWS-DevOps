@@ -253,3 +253,49 @@ For subnetting, please find the below video.
 ### Run a Serverless "Hello, World!" with AWS Lambda
 
 [https://aws.amazon.com/tutorials/run-serverless-code/](https://aws.amazon.com/tutorials/run-serverless-code/)
+
+
+Amazon SQS
+----------
+
+### Loosely coupled scenarios
+
+[http://docs.aws.amazon.com/wellarchitected/latest/high-performance-computing-lens/loosely-coupled-scenarios.html](http://docs.aws.amazon.com/wellarchitected/latest/high-performance-computing-lens/loosely-coupled-scenarios.html)
+
+### Building Loosely Coupled, Scalable, C# Applications with Amazon SQS and Amazon SNS
+
+[https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-applications-with-amazon-sqs-and-amazon-sns/)  
+
+Activities -->
+--------------
+
+### Send Fanout Event Notifications  
+[https://docs.aws.amazon.com/hands-on/latest/send-fanout-event-notifications/send-fanout-event-notifications.html?ref=gsrchandson](https://docs.aws.amazon.com/hands-on/latest/send-fanout-event-notifications/send-fanout-event-notifications.html?ref=gsrchandson)
+
+### Send Messages Between Distributed Applications  
+[https://docs.aws.amazon.com/hands-on/latest/send-messages-distributed-applications/send-messages-distributed-applications.html?ref=gsrchandson](https://docs.aws.amazon.com/hands-on/latest/send-messages-distributed-applications/send-messages-distributed-applications.html?ref=gsrchandson)
+
+* * *
+
+\[ Workshops \]
+---------------
+
+### **Java on AWS Lambda**
+
+[**https://catalog.us-east-1.prod.workshops.aws/workshops/f9ac85ca-1bd2-4a01-a936-a76a4c0811c8/en-US**](https://catalog.us-east-1.prod.workshops.aws/workshops/f9ac85ca-1bd2-4a01-a936-a76a4c0811c8/en-US)
+
+**Serverless Security Workshop**
+
+[**https://catalog.us-east-1.prod.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30/en-US/**](https://catalog.us-east-1.prod.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30/en-US/)
+
+**Amazon DynamoDB Immersion Day**
+
+[**https://catalog.us-east-1.prod.workshops.aws/workshops/2eff9da8-f655-4930-8131-6cdf97c688d4/en-US/**](https://catalog.us-east-1.prod.workshops.aws/workshops/2eff9da8-f655-4930-8131-6cdf97c688d4/en-US/)
+
+**AWS Serverless Observability Workshop**
+
+[**https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US**](https://catalog.us-east-1.prod.workshops.aws/workshops/b3fc5f7a-ff34-41fa-a9f2-4cd9e093e6ff/en-US)
+
+**The Amazon API Gateway Workshop**
+
+[**https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US**](https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US)
