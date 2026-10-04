@@ -361,5 +361,3 @@ Week 1 - AWS Fundamental + Compute + Storage
 Week 2 - Networking + High Availability   
 Week 3 - Database + Serverless + App Integration  
 Week 4 - Security + Architecture
-=======
->>>>>>> 3b3f7aa7c98ea528e6fd009d4264992d07798554:AWS-Important-Links.md
