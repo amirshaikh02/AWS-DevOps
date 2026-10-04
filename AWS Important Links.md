@@ -299,3 +299,64 @@ Activities -->
 **The Amazon API Gateway Workshop**
 
 [**https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US**](https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US)
+
+
+* * *
+
+04-10-2026 (Class link and study plan)
+======================================
+
+Drive Links:-
+-------------
+
+[https://drive.google.com/drive/folders/1RBnHZOPkdIgEIjpqUKcKib5m-dRyRHxK](https://drive.google.com/drive/folders/1RBnHZOPkdIgEIjpqUKcKib5m-dRyRHxK)
+
+* * *
+
+**AWS Certified Solutions Architect - Associate SAA-C03 Actual Exam Questions**
+-------------------------------------------------------------------------------
+
+[https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/)
+
+**Domain 1 Review: AWS Certified Solutions Architect - Associate (SAA-C03 - English)**
+--------------------------------------------------------------------------------------
+
+[https://skillbuilder.aws/learn/FZFYKYYV19/domain-1-review-aws-certified-solutions-architect--associate-saac03--english/1SSMX53WP6](https://skillbuilder.aws/learn/FZFYKYYV19/domain-1-review-aws-certified-solutions-architect--associate-saac03--english/1SSMX53WP6)
+
+**Domain 2 Review: AWS Certified Solutions Architect - Associate (SAA-C03 - English)**
+--------------------------------------------------------------------------------------
+
+[https://skillbuilder.aws/learn/53VSXZ83QZ/domain-2-review-aws-certified-solutions-architect--associate-saac03--english/GPR3NYS8MB](https://skillbuilder.aws/learn/53VSXZ83QZ/domain-2-review-aws-certified-solutions-architect--associate-saac03--english/GPR3NYS8MB)
+
+**Domain 3 Review: AWS Certified Solutions Architect - Associate (SAA-C03 - English)**
+--------------------------------------------------------------------------------------
+
+[https://skillbuilder.aws/learn/1V5S9MC41R/domain-3-review-aws-certified-solutions-architect--associate-saac03--english/TKXSQ4NNZF](https://skillbuilder.aws/learn/1V5S9MC41R/domain-3-review-aws-certified-solutions-architect--associate-saac03--english/TKXSQ4NNZF)
+
+**Domain 4 Review: AWS Certified Solutions Architect - Associate (SAA-C03 - English)**
+--------------------------------------------------------------------------------------
+
+[https://skillbuilder.aws/learn/JWG25A9Y72/domain-4-review-aws-certified-solutions-architect--associate-saac03--english/ER14KB81AS](https://skillbuilder.aws/learn/JWG25A9Y72/domain-4-review-aws-certified-solutions-architect--associate-saac03--english/ER14KB81AS)
+
+**AWS Solutions Architect Learning Plan (Includes Labs)**
+---------------------------------------------------------
+
+[https://skillbuilder.aws/learning-plan/EB6SVX4CTK/aws-solutions-architect-learning-plan-includes-labs/SAJSTUCC44](https://skillbuilder.aws/learning-plan/EB6SVX4CTK/aws-solutions-architect-learning-plan-includes-labs/SAJSTUCC44)
+
+**Official Practice Question Set: AWS Certified Solutions Architect - Associate (SAA-C03 - English)**
+-----------------------------------------------------------------------------------------------------
+
+[https://skillbuilder.aws/learn/6NV91XYP1P/official-practice-question-set-aws-certified-solutions-architect--associate-saac03--english/N1HSPV1K17](https://skillbuilder.aws/learn/6NV91XYP1P/official-practice-question-set-aws-certified-solutions-architect--associate-saac03--english/N1HSPV1K17)
+
+* * *
+
+1-Month Plan:  
+1.5 Hours - Theory  
+1 Hr - Practical  
+1 Hr - Scenario-Based Question  
+30 Min - revision - Create your own notes.
+
+Week 1 - AWS Fundamental + Compute + Storage  
+Week 2 - Networking + High Availability   
+Week 3 - Database + Serverless + App Integration  
+Week 4 - Security + Architecture
