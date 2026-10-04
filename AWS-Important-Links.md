@@ -299,6 +299,7 @@ Activities -->
 **The Amazon API Gateway Workshop**
 
 [**https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US**](https://catalog.us-east-1.prod.workshops.aws/workshops/5079f77b-4228-442e-baba-06a1065f67e1/en-US)
+<<<<<<< HEAD:AWS Important Links.md
 
 
 * * *
@@ -360,3 +361,5 @@ Week 1 - AWS Fundamental + Compute + Storage
 Week 2 - Networking + High Availability   
 Week 3 - Database + Serverless + App Integration  
 Week 4 - Security + Architecture
+=======
+>>>>>>> 3b3f7aa7c98ea528e6fd009d4264992d07798554:AWS-Important-Links.md
